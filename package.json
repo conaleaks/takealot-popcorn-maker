@@ -1,0 +1,17 @@
+{
+  "name": "takealot-popcorn-maker",
+  "version": "1.0.0",
+  "description": "Takealot South Africa - Milex Retro Cinema Popcorn Maker Special Promo Store",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "takealot",
+    "washing-machine",
+    "samsung",
+    "ecommerce"
+  ],
+  "author": "Takealot Online",
+  "license": "ISC"
+}
